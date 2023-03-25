@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sever:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sever_jar</output-path>
+    <root id="archive" name="Chat.jar">
+      <element id="module-output" name="Chat" />
+    </root>
+  </artifact>
+</component>
